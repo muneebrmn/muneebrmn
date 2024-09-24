@@ -4,6 +4,6 @@ I am a Student and Python Developer in Learning. I´m based in Karachi, Pakistan
 • Currently: A-Levels Private Candidate <br />
 • Previously: O-Levels At Happy Palace Grammar School
 
-💻 I'm Currently Improving My Python Skills.
+💻 I'm Currently Trying To Improve My Python Skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/muneeb-ur-rehman-076768260/)
