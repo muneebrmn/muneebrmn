@@ -1,6 +1,6 @@
 Hello, I'm Muneeb Ur Rehman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> 
 
-I am a Student and Python Developer in Learning. I´m based in Karachi, Pakistan. <br />
+I am a Student and Web Developer in Learning. I´m based in Karachi, Pakistan. <br />
 • Currently: A-Levels Private Candidate <br />
 • Previously: O-Levels At Happy Palace Grammar School
 
